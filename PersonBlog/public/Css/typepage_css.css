@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap_head {
+	background: url(../images/about3.png)no-repeat center top;
+	background-size: cover;
+	-webkit-background-size: cover;
+	min-height: 400px;
+}
+
+
+/* 导航栏 */
+.sticky_header  { background-color: #FFF;}
+
+/* 	导航栏 logo部分
+		1、logo颜色及鼠标经过和点击效果固定颜色	*/
+.sticky_header .navbar-default .navbar-brand { color: #666;}
+.sticky_header .navbar-default .navbar-brand:hover { color: #666;}
+
+/*	导航栏 导航选项部分
+		1、导航选项的初始颜色
+		2、导航搜索框的上边距	*/
+.sticky_header .nav a{ color: #666;}
+
+
+.title { padding: 165px 0px;}
+.title h1{
+	color: #FFF;
+	font-size: 3.0em;
+	font-weight: 800;
+	font-family:Verdana, Geneva, sans-serif;
+	text-align: center;
+	margin: 10px 0px;
+}
+
+/*	目录导航
+		1、目录导航的边距
+		2、目录导航的边框
+		3、目录导航的位置
+		4、选项链接的样式	*/
+.asortment .col-md-12 { padding: 0px}
+.asortment .navbar { padding: 10px 0px; margin: 0px;}
+.asortment .navbar-default { border-color: transparent;}
+.asortment .nav-contents {
+	text-align: center;
+	float: none;
+	display: table;
+	margin: 0 auto;
+}
+.asortment a{
+	font-size: 15px;
+	font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif;
+}
+.asortment a:hover { color: #F30;}
+.asortment img {
+	width: 100%;
+}
+
+

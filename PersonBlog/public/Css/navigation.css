@@ -1,0 +1,44 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/* 导航栏 */
+.header {
+	padding: 10px 0px;
+	transition:background-color 0.5s;
+	-moz-transition:background-color 0.5s; /* Firefox 4 */
+	-webkit-transition:background-color 0.5s; /* Safari and Chrome */
+	-o-transition:background-color 0.5s; /* Opera */
+}
+/*	导航栏 logo 部分
+		1、取消logo 的背景色
+		2、logo的鼠标经过和点击效果固定为白色
+		3、调整logo属性	*/
+.header .navbar-default {
+	background-color: transparent;
+	transition:background-color 0.5s;
+	-moz-transition:background-color 0.5s; /* Firefox 4 */
+	-webkit-transition:background-color 0.5s; /* Safari and Chrome */
+	-o-transition:background-color 0.5s; /* Opera */
+}
+.header .navbar-default .navbar-brand:hover, .navbar-brand:focus{ color: #FFF;}
+.header .navbar-default .navbar-brand { 
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 2.5em;
+	padding-top: 5px;
+}
+/* 	导航栏 导航选项部分
+		1、设置导航选项的初始颜色,鼠标经过颜色
+		2、设置鼠标经过的过渡效果	*/
+.header .nav a { 
+	padding-top: 20px;
+	color: #FFF;
+	font-size: 16px;
+	font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif;
+	transition:color 0.5s;
+	-moz-transition:color 0.5s; /* Firefox 4 */
+	-webkit-transition:color 0.5s; /* Safari and Chrome */
+	-o-transition:color 0.5s; /* Opera */
+}
+.header .nav a:hover, .header .nav a:focus{ color: #F30;}
+.header .navbar-form { padding-top: 3px;}

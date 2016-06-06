@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*	页面头部
+		1、头部背景
+		2、页面标题
+		3、头部分页	*/
+.wrap_head {
+	background: url(../images/message_start.png)no-repeat center top;
+	background-size: cover;
+	-webkit-background-size: cover;
+	min-height: 550px;
+}
+.title { padding: 130px 0px;}
+.title h1{
+	color: #FFF;
+	font-size: 3.0em;
+	font-weight: 800;
+	font-family:Verdana, Geneva, sans-serif;
+	text-align: center;
+	margin: 10px 0px;
+}
+.message_menu_head { background-color: rgba(0,0,0,0.4); margin-top: 50px;}
+.message_menu_head .paging { height: 100px;}
+
+
+/*	页面内容
+		1、页面背景为白色
+		2、留言列表	*/
+.wrap_content { background-color: #FFF;}
+
+
+/*	留言列表	*/
+.message_content { margin: 40px 0px;}
+.message_content .message_item { padding: 10px 0px;}
+.message_content .message_item .col-md-12 { padding: 0px 150px;}
+.message_content .message_item .item_content{
+	padding: 20px;
+	border: 1px solid #eee;
+}
+/*	每条留言的图标	*/
+.message_content .message_item .item_content .item_head{
+	position:relative;
+	top: -10px;
+	left: -10px;
+	font-size: 1.2em;
+	font-weight: 500;
+	color: #ed1941;
+}
+.message_content .message_item .item_content .media .media-left .head{
+	width: 64px;
+	height: 64px;
+}
+.message_content .message_item .item_content .message_info {
+	padding-top: 10px;
+}
+
+
+/*	页面尾部
+		1、尾部分页
+		2、留言框	*/
+.wrap_end {
+	background: url(../images/message_end.png)no-repeat center top;
+	background-size: cover;
+	-webkit-background-size: cover;
+}
+.message_menu_end { background-color: rgba(0,0,0,0.4); margin-bottom: 50px;}
+.message_menu_end .paging { height: 100px;}
+
+.input_message { padding: 50px 0px;}
+.input_message .col-md-12 { padding: 0px 150px;}
+.input_message .message_textarea {
+	border: 1px solid #eee;
+	display: block;
+	height: 100px;
+	width: 100%;
+	padding: 5px;
+	resize: none; 
+	color: #ccc
+}
+.input_message .message_button {
+	display: none;
+	font-size: 12px;
+	font-weight: bold;
+	float: right;
+	width: 65px;
+	height: 25px;
+	border: 1px solid #F60;
+	color: #F60;
+	background: #fff;
+	margin: 5px 0 0 0;
+}
+
+.input_message .message_area_on .message_textarea{ height: 150px; color: #333;}
+.input_message .message_area_on .message_button{ display: inline;}

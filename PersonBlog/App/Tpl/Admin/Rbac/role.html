@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>ID</td>
+			<th>角色名称</th>
+			<th>角色描述</th>
+			<th>角色开启状态</th>
+			<th>操作</th>
+		</tr>
+		<foreach name='role' item='v'>
+		<tr>
+			<td>{$v.id}</td>
+			<th>{$v.name}</th>
+			<th>{$v.remark}</th>
+			<th>
+				<if condition='$v["status"]'>
+				开启
+				<else/>
+				关闭
+				</if>
+			</th>
+			<th><a href="">配置权限</a></th>
+			<th>{$v.id}</th>
+		</tr>
+		</foreach>
+
+	</table>
+</body>
+</html>

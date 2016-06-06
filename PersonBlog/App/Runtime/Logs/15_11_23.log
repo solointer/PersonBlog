@@ -1,0 +1,1402 @@
+[ 2015-11-23T20:03:12+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.040659s ]
+
+[ 2015-11-23T20:03:59+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+
+[ 2015-11-23T20:04:00+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+
+[ 2015-11-23T20:04:00+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+
+[ 2015-11-23T20:04:42+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039362s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001084s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001353s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000980s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005088s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000956s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2015-11-23T20:05:19+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.078404s ]
+INFO: [ route_check ] --END-- [ RunTime:0.078576s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007827s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000568s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000674s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000694s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003587s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001433s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001633s ]
+
+[ 2015-11-23T20:05:33+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001176s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001340s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-11-23T20:06:33+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001904s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002335s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-11-23T20:06:33+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000741s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-11-23T20:06:33+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000835s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-11-23T20:06:46+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Admin/IndexI/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000827s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-11-23T20:06:54+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php//IndexI/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001186s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001346s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+ERR: 无法加载模块:IndexI
+
+[ 2015-11-23T20:06:59+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/IndexI/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000751s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+ERR: 无法加载模块:IndexI
+
+[ 2015-11-23T20:07:09+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/IndexI/IndexI/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000745s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:IndexI
+
+[ 2015-11-23T20:07:17+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000753s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006592s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000646s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001297s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001261s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004596s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000638s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2015-11-23T20:07:43+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Admin/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001134s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001583s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-11-23T20:09:16+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000788s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+ERR: 模板不存在[./App/Tpl/Admin/Index/index.html]
+
+[ 2015-11-23T20:09:48+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000767s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045314s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000691s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000688s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000544s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003401s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000832s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000917s ]
+
+[ 2015-11-23T20:14:41+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000886s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001009s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+ERR: 非法操作:index
+
+[ 2015-11-23T20:15:14+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000733s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+ERR: 非法操作:index
+
+[ 2015-11-23T20:16:02+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000759s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+ERR: 模板不存在[./App/Tpl/Admin/Login/index.html]
+
+[ 2015-11-23T20:16:50+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001465s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001661s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+ERR: 非法操作:index
+
+[ 2015-11-23T20:16:58+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001812s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002019s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+ERR: 模板不存在[./App/Tpl/Admin/Login/login.html]
+
+[ 2015-11-23T20:19:52+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000900s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001086s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+ERR: 非法操作:login
+
+[ 2015-11-23T20:20:01+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004946s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005219s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009658s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000553s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000581s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000409s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002470s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000669s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2015-11-23T20:37:34+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001148s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001276s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007622s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000998s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001217s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003751s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000694s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2015-11-23T20:37:35+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000753s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006736s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001199s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000846s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000909s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000781s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004201s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000666s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2015-11-23T20:58:03+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001161s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+
+[ 2015-11-23T20:58:32+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000766s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+
+[ 2015-11-23T20:59:22+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001377s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001616s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-11-23T20:59:23+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001428s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001739s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+
+[ 2015-11-23T21:00:36+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000864s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+
+[ 2015-11-23T21:00:36+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000741s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+
+[ 2015-11-23T21:00:36+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001317s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001518s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+
+[ 2015-11-23T21:00:37+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001110s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001247s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+
+[ 2015-11-23T21:00:37+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001182s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001367s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+
+[ 2015-11-23T21:00:41+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000899s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+
+[ 2015-11-23T21:02:30+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001097s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001240s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+
+[ 2015-11-23T21:02:31+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001865s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002124s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+
+[ 2015-11-23T21:02:31+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001267s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001413s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+
+[ 2015-11-23T21:02:31+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001545s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001720s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+
+[ 2015-11-23T21:02:31+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001843s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001981s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+
+[ 2015-11-23T21:02:59+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001113s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001261s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+
+[ 2015-11-23T21:02:59+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001038s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+
+[ 2015-11-23T21:02:59+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001049s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001171s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+
+[ 2015-11-23T21:03:00+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001007s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+
+[ 2015-11-23T21:03:42+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001147s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002206s ]
+
+[ 2015-11-23T21:06:25+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001019s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001183s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+
+[ 2015-11-23T21:14:44+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001088s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001268s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012260s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000797s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000699s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000539s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002968s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000766s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2015-11-23T21:14:47+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001018s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001523s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000656s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000632s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000499s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000748s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002811s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001325s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001482s ]
+
+[ 2015-11-23T21:14:58+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000970s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001083s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008098s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000712s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000829s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000885s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003732s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001921s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002073s ]
+
+[ 2015-11-23T21:16:22+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002923s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003145s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038168s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000884s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000720s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000640s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003379s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001301s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001475s ]
+
+[ 2015-11-23T21:16:22+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001711s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001940s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013572s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001585s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001019s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000775s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004698s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001219s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001492s ]
+
+[ 2015-11-23T21:16:24+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000861s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001027s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008107s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000698s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000710s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000576s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003049s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000860s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2015-11-23T21:16:24+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001287s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001475s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012297s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000935s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001716s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000953s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005224s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000991s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2015-11-23T21:16:39+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001044s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021773s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001336s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000965s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000397s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003651s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000759s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2015-11-23T21:16:40+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001391s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001586s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011353s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000479s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000609s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000381s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002267s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000661s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2015-11-23T21:17:14+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Loginve/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000903s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Loginve
+
+[ 2015-11-23T21:17:34+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000825s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000957s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+
+[ 2015-11-23T21:17:47+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000795s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009890s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000392s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000524s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000321s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001995s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000618s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2015-11-23T21:17:47+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001520s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008500s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001037s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000839s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000422s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003370s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000603s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2015-11-23T21:18:00+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001353s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001476s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008582s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000430s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000558s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000339s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002084s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000602s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2015-11-23T21:18:00+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001292s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001456s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013156s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000661s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000842s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000602s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000826s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003341s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000975s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001103s ]
+
+[ 2015-11-23T21:18:00+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000802s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001217s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006614s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006743s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000399s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000511s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000334s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001961s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000673s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2015-11-23T21:18:01+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003367s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003595s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001181s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013380s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000710s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000966s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000531s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003479s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000934s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001097s ]
+
+[ 2015-11-23T21:18:11+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000798s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008426s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000542s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000843s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000421s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002626s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-11-23T21:18:12+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000901s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011377s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000772s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000807s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000517s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003330s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000872s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2015-11-23T21:18:12+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000787s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006560s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000415s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000991s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000383s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002693s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000756s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2015-11-23T21:18:12+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001477s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001664s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013539s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000547s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000846s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000947s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004427s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000921s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001084s ]
+
+[ 2015-11-23T21:18:47+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001899s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002054s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant vertify - assumed 'vertify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007816s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000589s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000522s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000347s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002303s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001019s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001380s ]
+
+[ 2015-11-23T21:18:47+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001165s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001318s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant vertify - assumed 'vertify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010244s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000695s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001156s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003172s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000557s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2015-11-23T21:18:48+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001161s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant vertify - assumed 'vertify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006984s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000441s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000527s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000433s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002106s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2015-11-23T21:18:48+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000916s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant vertify - assumed 'vertify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012268s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000475s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000725s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000326s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002310s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000486s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2015-11-23T21:18:48+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001681s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001851s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant vertify - assumed 'vertify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006422s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000360s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000552s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000303s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001942s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000481s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000559s ]
+
+[ 2015-11-23T21:18:48+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001923s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002240s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant vertify - assumed 'vertify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011691s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001045s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000924s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000618s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003867s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000963s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001122s ]
+
+[ 2015-11-23T21:19:06+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000874s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010033s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000401s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000581s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000320s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002098s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2015-11-23T21:19:06+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001283s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001457s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010594s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000676s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000707s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003023s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001622s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001854s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000778s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006912s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000411s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000616s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000345s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002179s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000564s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001320s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001499s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011959s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000569s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001260s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000631s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004195s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000640s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000774s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007296s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000458s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000508s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000365s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000470s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002129s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000544s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001361s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009311s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000738s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001324s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001326s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005168s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000994s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000841s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008153s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000474s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000754s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000426s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002637s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000585s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001311s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001469s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010367s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000538s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000704s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000386s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000984s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003291s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001218s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001439s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001032s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001182s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007186s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000432s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000503s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000339s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001959s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000534s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-11-23T21:19:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001833s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant Login - assumed 'Login' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [8] Use of undefined constant verify - assumed 'verify' D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+NOTIC: [2] Division by zero D:\Demo\test01\php3.1.3\Thinkfenzu\App\Runtime\Cache\Admin\e0bda5f754941ba2f34d28fbd49eb581.php 第 12 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009375s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001278s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001528s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000570s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004769s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000885s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2015-11-23T21:21:29+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000884s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009342s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000588s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000531s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000348s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002410s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000608s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2015-11-23T21:21:29+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001897s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002079s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+
+[ 2015-11-23T21:42:44+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000904s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011249s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000577s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000660s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000340s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002404s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000779s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2015-11-23T21:42:44+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/Login/verify.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001382s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001577s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+

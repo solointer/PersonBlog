@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table width="900px" border="1" cellspacing="0" cellpadding="10">
+		<tr>
+			<td>回复者ID</td>
+			<td>用户ID</td>
+			<td>用户名</td>
+			<td>评论者ID</td>
+			<td>回复内容</td>
+			
+			<td>评论对象</td>
+			<td>操作</td>
+			
+		</tr>
+		<foreach name='data' item='v'>
+		 <tr>
+		 	<td>{$v.replyid}</td>
+		 	<td>{$v.userid}</td>
+		 	<td>{$v.username}</td>
+		 	 <td>{$v.criticsid}</td>
+		 	  	<td>{$v.replycontent}</td>
+		 	  	
+		 	  	 	<td>{$v.replyobject}</td>
+		 	<td><a href="{:U('Admin/Critics/deletereply',array('replyid'=>$v['replyid']))}">删除</a>
+		 
+		 	
+		 </tr>
+		 
+			</foreach>
+			
+		
+		 	
+		 
+	</table>
+	</form>
+</body>
+</html>

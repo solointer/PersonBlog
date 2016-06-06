@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table width="800px" border="1" cellspacing="0" cellpadding="10" align="center">
+		<tr>
+			<td>ID</td>
+			<td>标题</td>
+			<td>点击次数</td>
+			<td>发布时间</td>
+			<td>所属类型</td>
+			<td>文章属性</td>
+			<td>操作</td>
+		</tr>
+		<foreach name="info"  item='v'>
+		<tr>
+			<td>{$v.articleid}</td>
+			<td>{$v.title}</td>
+			<td>{$v.click}</td>
+			<td>{$v.time|date='y-m-d H:i',###}</td>
+			<td>
+				{$v.cate.name}
+			</td>
+			<td>
+				<foreach name="v.attr" item='h'>
+				<strong>{$h.name}</strong>
+					<div>{$h.color}</div>
+				</foreach>
+			</td>
+			<td>
+				<a href="{:U('Admin/Blog/showAllArticle',array('articleid'=>$v['articleid']))}">查看全文</a>
+			</td>
+		</tr>
+		
+		</foreach>
+	</table>
+</body>
+</html>

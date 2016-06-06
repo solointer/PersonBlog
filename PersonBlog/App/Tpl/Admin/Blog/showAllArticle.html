@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table width="700px" border="1" cellspacing="0" cellpadding="10" align="center">
+		<h1>博客全文浏览</h1>
+		<foreach name="info"  item='v'>
+		<tr>
+			<td>ID</td>
+			<td>{$v.articleid}</td>
+		<tr>
+		<tr>
+			<td>标题</td>
+			<td>{$v.title}</td>
+		</tr>
+		<tr>
+			<td>点击次数</td>
+			<td>{$v.click}</td>
+		</tr>
+		<tr>
+			<td>发布时间</td>
+			<td>{$v.time|date='y-m-d H:i',###}</td>
+		</tr>
+		<tr>
+			<td>所属类型</td>
+			<td>{$v.cate.name}</td>
+		</tr>
+		<tr>
+			<td>文章属性</td>
+			<td>
+				<foreach name="v.attr" item='h'>
+				<strong>{$h.name}</strong>
+					<div>{$h.color}</div>
+				</foreach>
+			</td>
+		</tr>
+		<tr>
+			<td>文章内容</td>
+			<td>{$v.content}</td>
+		
+		
+		</foreach>
+		</tr>
+			<td>
+				<a href="{:U('Admin/Blog/index')}">返回上一级</a>
+				
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

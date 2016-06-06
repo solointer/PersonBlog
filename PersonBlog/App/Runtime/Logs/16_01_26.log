@@ -1,0 +1,12 @@
+[ 2016-01-26T13:58:03+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Inde
+ERR: 无法加载模块:Inde
+
+[ 2016-01-26T14:04:27+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/index/
+ERR: 无法加载模块:index
+
+[ 2016-01-26T14:04:34+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/index
+ERR: 无法加载模块:index
+
+[ 2016-01-26T14:04:37+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Admin/index
+ERR: 无法加载模块:index
+

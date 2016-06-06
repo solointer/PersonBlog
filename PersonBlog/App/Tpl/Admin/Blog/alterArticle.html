@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<form action="{:U('Admin/Blog/dealwithAlter')}" method="post">
+	<table width="700px" border="1" cellspacing="0" cellpadding="10" align="center">
+		<h1>博客全文浏览</h1>
+		<foreach name="info"  item='v'>
+		<tr>
+			<td>ID</td>
+			<td><input type="text" name="articleid" value="{$v.articleid}"></td>
+		<tr>
+		<tr>
+			<td>标题</td>
+			<td><input type="text" name="title" value="{$v.title}"></td>
+		</tr>
+		<tr>
+			<td>点击次数</td>
+			<td><input type="text" name="click" value="{$v.click}"></td>
+		</tr>
+		<tr>
+			<td>发布时间</td>
+			<td><input type="text" name="time" value="{$v.time|date='y-m-d H:i',###}"></td>
+		</tr>
+		<tr>
+			<!--
+			<td>所属分类</td>
+				<td><select name="assortmentid">
+					<option value="">{$v.cate.name}</option>
+					<foreach name='cate' item='v'>
+						<option value="{$v.assortmentid}">{$v.name}</option>
+					</foreach>
+				</select></td>-->
+		<td>所属类型</td>
+			<td><input type="text" name="assortmentid" value="{$v.cate.name}"></td>
+		</tr>
+		<tr>
+			<td>文章属性</td>
+			<td>
+				<foreach name="v.attr" item='h'>
+				<input type="text" name="attrid[]"value="{$h.attrid}">{$h.name}
+			
+				</foreach>
+			</td>
+		</tr>
+		<tr>
+			<td>文章内容</td>
+			<td><textarea rows="10" cols="30" name="content">{$v.content}</textarea></td>
+		
+		
+		</foreach>
+		</tr>
+			<td colspan="2" align="center">
+			<input type="submit" value="保存修改">
+			<input type="reset" value="取消修改">
+				
+			</td>
+		</tr>
+	</table>
+	</form>
+</body>
+</html>

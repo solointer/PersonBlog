@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table width="1000px" border="1" cellspacing="0" cellpadding="10" align="center">
+		<tr>
+			<td>ID</td>
+			<td>标题</td>
+			<td>作者</td>
+			<td>文章简介</td>
+			<td>点击次数</td>
+			<td>发布时间</td>
+			<td>所属类型</td>
+			<td>文章属性</td>
+			<td>阅读人数</td>
+			<td>评论人数</td>
+			<td>点赞人数</td>
+			<td>操作</td>
+		</tr>
+		<foreach name="info"  item='v'>
+		<tr>
+			<td>{$v.articleid}</td>
+			<td>{$v.title}</td>
+			<td>{$v.author}</td>
+			<td>{$v.introduce}</td>
+			<td>{$v.click}</td>
+			<td>{$v.time|date='y-m-d H:i',###}</td>
+			<td>
+				{$v.cate.name}
+			</td>
+			<td>
+				<foreach name="v.attr" item='h'>
+				<strong>{$h.name}</strong>
+					<div>{$h.color}</div>
+				</foreach>
+			</td>
+			<td>{$v.readnumber}</td>
+			<td>{$v.commentnumber}</td>
+			<td>{$v.likenumber}</td>
+			<td>
+				<a href="{:U('Admin/Blog/showAllArticle',array('articleid'=>$v['articleid']))}">查看全文</a>
+				<a href="{:U('Admin/Blog/deleteArticle',array('articleid'=>$v['articleid']))}">删除</a>
+				<a href="{:U('Admin/Blog/alterArticle',array('articleid'=>$v['articleid']))}">修改</a>
+			</td>
+		</tr>
+		
+		</foreach>
+	</table>
+</body>
+</html>

@@ -1,0 +1,39 @@
+[ 2015-12-13T11:16:53+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:17:13+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:19:42+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:19:54+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:22:09+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:24:58+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:26:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:27:46+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:29:45+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:31:12+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:32:18+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/%7B:U('Index/Message/writemessage','','')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2015-12-13T11:42:01+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Message/handlurl
+ERR: 非法操作:handlurl
+
+[ 2015-12-13T19:42:00+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Index/Index/href=
+ERR: 非法操作:href=
+

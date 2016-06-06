@@ -1,0 +1,23 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*	欢迎内容	*/
+.welcome_content {
+	margin-top: 150px;
+	height: 200px;
+}
+.welcome_content .brand {
+	border-bottom: 1px solid #FFF;
+	width: 350px;
+	text-align: center;
+	font-size: 3.0em;
+	color: #FFF;
+	padding-bottom: 10px;
+}
+.welcome_content .text {
+	color: #FFF;
+	font-size: 2.0em;
+	font-family:Verdana, Geneva, sans-serif;
+	text-align: center;
+	margin-top: 20px;
+}

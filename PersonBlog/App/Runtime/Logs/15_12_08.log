@@ -1,0 +1,12 @@
+[ 2015-12-08T16:07:42+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Index/Homepage/articlepage/id/js/jquery-1.11.1.min.js
+ERR: 缓存文件写入失败！:./App/Runtime/Cache/Index/570c3f7f59281785761ff9e80fbf00b9.php
+
+[ 2015-12-08T19:47:07+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Index/Homepage/articlepage/id/js/jquery-1.11.1.min.js
+ERR: 缓存文件写入失败！:./App/Runtime/Cache/Index/570c3f7f59281785761ff9e80fbf00b9.php
+
+[ 2015-12-08T20:41:58+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Index/CriticsLikeAction/countContentLike
+ERR: 无法加载模块:CriticsLikeAction
+
+[ 2015-12-08T20:42:43+08:00 ] 127.0.0.1 /php3.1.3/Thinkfenzu/index.php/Index/CriticsLikeAction/countContentLike
+ERR: 无法加载模块:CriticsLikeAction
+

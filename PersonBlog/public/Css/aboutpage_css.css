@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap_head {
+	background: url(../images/about_bg2.png)no-repeat center top;
+	/* 将背景图片设置为 cover ，使图片扩展到足以充满屏幕 */
+	background-size: cover;
+	-webkit-background-size: cover;
+	min-height: 650px;
+}
+
+/*	导航栏	*/
+.header { margin-bottom: 100px;}
+
+/*	网站介绍	*/
+.about_intro { border: 0px solid #F00; }
+
+.about_intro h1 { color: #FFF; font-family: Verdana, Geneva, sans-serif; text-align: center;}
+.about_intro p {
+	color: #FFF;
+	font-size: 1.2em;
+	letter-spacing: 1.5px;
+	line-height: 150%;
+	font-family: "幼圆","微软雅黑","黑体";
+	padding: 20px;
+}
+
+/*	开发者介绍	*/
+.about_us { height: 200px}
+.about_us h1 { font-family: Verdana, Geneva, sans-serif; margin: 80px 0px;}
+.about_us img { width: 100%;}
+
+.about_developer .developer {
+	background-color: #2c3e50;
+	padding: 50px;
+	height: 350px;
+}
+.about_developer .developer .info {
+	font-size: 16px;
+	font-family:Microsoft YaHei, Tahoma, Arial;
+	color: #FFF;
+	padding: 20px 0px;
+	text-align: center;
+}
+.about_developer .developer .info .info_1 { padding: 10px 0px;}
+.about_developer .developer .info a { color: #FFF; text-decoration: none;}
+.about_developer .developer .info a:hover { color: #F00;}
+.about_developer .developer_text_1 { background-color: #00b498; padding: 50px;height: 350px;}
+.about_developer .developer_text_1 p {
+	color: #FFF;
+	font-size: 18px;
+	letter-spacing: 1.5px;
+	line-height: 150%;
+	font-family: "幼圆","微软雅黑","黑体";
+	padding: 80px;
+}
+.about_developer .developer_text_2 { background-color: #f3584c; padding: 50px;height: 350px;}
+.about_developer .developer_text_2 p {
+	color: #FFF;
+	font-size: 18px;
+	letter-spacing: 1.5px;
+	line-height: 150%;
+	font-family: "幼圆","微软雅黑","黑体";
+	padding: 80px;
+}
+

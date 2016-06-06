@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table width="700px" border="1" cellspacing="0" cellpadding="10">
+		<tr>
+			<td>ID</td>
+			<td>名称</td>
+			<td>颜色</td>
+			<td>操作</td>
+			
+		</tr>
+		<foreach name='attr' item='v'>
+		 <tr>
+		 	<td>{$v.attrid}</td>
+		 	<td>{$v.name}</td>
+		 	<td>{$v.color}</td>
+		 	<td><a href="">添加属性</a>
+		 	<a href="">修改属性</a>
+		 	<a href="">删除属性</a></td>
+		 	
+		 	
+		 	
+		 </tr>
+		 
+			</foreach>
+			
+		
+		 	
+		 
+	</table>
+	</form>
+</body>
+</html>

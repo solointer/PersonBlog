@@ -1,0 +1,86 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<style type="text/css">
+body{
+	background: #74adaa;
+}
+h1
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header {
+	text-align: center;
+}
+.header a{
+	float: right;
+}
+.menu{
+	float: left;
+	width: 300px;
+	border: 1px solid red;
+
+}
+	
+	
+
+       
+        
+</style>
+<body>
+
+</div>
+<div class="header">
+	<h1>欢迎登陆博客后台管理界面</h1>
+	<a href="<?php echo U('Admin/Index/logout');?>"  target="_self">退出</a>
+	</div>
+<div class="menu">
+<dl>
+	<dt>博文管理</dt>
+	<dd><a href="<?php echo U('Admin/Blog/index');?>">博文列表</a></dd>
+	<dd><a href="<?php echo U('Admin/Blog/blog');?>">发布博文</a></dd>
+	<dd><a href="<?php echo U('Admin/Blog/recycle');?>">回收站</a></dd>
+</dl>
+	<dl>
+		<dt>留言管理</dt>
+		<dd><a href="<?php echo U('Admin/MsgManage/index');?>">查看所有的留言</a></dd>
+	</dl>
+	<dl>
+		<dt>用户管理</dt>
+			<dd><a href="">用户列表</a></dd>
+			<!--
+			<dd><a href="<?php echo U('Admin/Rbac/role');?>">角色列表</a></dd>
+			<dd><a href="">节点列表</a></dd>
+
+			<dd><a href="">添加用户</a></dd>
+			<dd><a href="<?php echo U('Admin/Rbac/addRole');?>">添加角色</a></dd>
+			<dd><a href="">添加节点</a></dd>		-->
+	</dl>
+	<dl>
+		<dt>分类管理</dt>
+			<dd><a href="<?php echo U('Admin/Category/index');?>">分类列表</a></dd>
+			<dd><a href="<?php echo U('Admin/Category/addCate');?>">添加分类</a></dd>
+		
+	</dl>
+	<dl>
+		<dt>评论管理</dt>
+		<dd><a href="<?php echo U('Admin/Critics/showAllContent');?>">评论管理</a></dd>
+			<dd><a href="<?php echo U('Admin/Category/addCate');?>"></a></dd>
+	</dl>
+	<dl>
+		<dt>账号管理</dt>
+		<dd><a href="<?php echo U('Admin/Category/index');?>">账号管理</a></dd>
+			<dd><a href="<?php echo U('Admin/Category/addCate');?>"></a></dd>
+	</dl>
+	<dl>
+		<dt>文章属性管理</dt>
+		<dd><a href="<?php echo U('Admin/Attr/index');?>">属性列表</a></dd>
+			<dd><a href="<?php echo U('Admin/Category/addCate');?>"></a>添加属性</dd>
+	</dl>
+</div>	
+</body>
+</html>

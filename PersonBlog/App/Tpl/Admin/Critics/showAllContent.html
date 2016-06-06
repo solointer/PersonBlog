@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<table width="900px" border="1" cellspacing="0" cellpadding="10">
+		<tr>
+			<td>评论者ID</td>
+			<td>用户ID</td>
+			<td>用户名</td>
+			<td>评论内容</td>
+			<td>评论时间</td>
+			<td>点赞数</td>
+			<td>评论对象</td>
+			<td>操作</td>
+			
+		</tr>
+		<foreach name='info' item='v'>
+		 <tr>
+		 	<td>{$v.criticsid}</td>
+		 	<td>{$v.userid}</td>
+		 	<td>{$v.username}</td>
+		 	 <td>{$v.criticscontent}</td>
+		 	  	<td>{$v.criticstime}</td>
+		 	  	<td>{$v.likenumber}</td>
+		 	  	 	<td>{$v.replyobject}</td>
+		 	<td><a href="{:U('Admin/Critics/deleteContent',array('criticsid'=>$v['criticsid']))}">删除</a>
+		 <a href="{:U('Admin/Critics/chridrenContent',array('criticsid'=>$v['criticsid']))}">查看回复</a>
+		 	 <a href="{:U('Admin/Critics/chridrenContent',array('criticsid'=>$v['criticsid']))}">查看评论的文章</a></td>
+		 	
+		 </tr>
+		 
+			</foreach>
+			
+		
+		 	
+		 
+	</table>
+	</form>
+</body>
+</html>

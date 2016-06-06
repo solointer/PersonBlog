@@ -1,0 +1,91 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*	文章列表	*/
+.article_list .row { padding: 70px;}
+/*	文章列表 文章项
+		1、文章项的边距
+		2、文章项的边框
+		3、文章的缩略图
+		4、缩略图的阅读遮罩层
+		5、文章简介部分	*/
+.article_list .article_item { margin: 20px 0px; padding: 0px 15px;}
+.article_list .article_item .article_content { border: 1px solid #eee; border-radius: 5px;}
+.article_list .article_item .thumbnail {
+	margin-bottom: 0px;
+	border: none;
+	border-radius: 5px;
+	padding: 0px;
+	height: 180px;
+}
+.article_list .article_item .thumbnail .read {
+	width: 100%;
+	height: 100%;
+	background-color:transparent;
+	transition: background-color 0.3s;
+	-moz-transition: background-color 0.3s; /* Firefox 4 */
+	-webkit-transition: background-color 0.3s; /* Safari and Chrome */
+	-o-transition: background-color 0.3s; /* Opera */
+}
+.article_list .article_item .thumbnail .read p {
+	color: #FFF;
+	font-size: 24px;
+	padding: 71px 30px;
+	margin: 0px;
+	text-align: center;
+	text-decoration: none;
+}
+/*	文章列表 文章项 文章简介部分
+		1、文章简介部分边距
+		2、文章标题链接
+		3、文章简介内容
+		3、文章信息部分	*/
+.article_list .article_item .article_intro { padding: 15px;}
+.article_list .article_item .article_intro .article_title {
+	color: #2e353b;
+	font-family: 'Microsoft YaHei',Arial,Helvetica,sans-serif;
+	padding: 10px;
+	line-height: 24px;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.article_list .article_item .article_intro a { 
+	transition: color 0.3s;
+	-moz-transition: color 0.3s; /* Firefox 4 */
+	-webkit-transition: color 0.3s; /* Safari and Chrome */
+	-o-transition: color 0.3s; /* Opera */
+}
+.article_list .article_item .article_intro a:hover ,a:focus{ color: #F30; text-decoration: none;}
+.article_list .article_item .article_intro .article_main {
+	color: #576366;
+	height: 120px;
+	line-height: 1.6;
+	font-size: 13px;
+	margin: 10px;
+	overflow: hidden;
+	-webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+}
+.article_list .article_item .article_intro .article_main p { margin: 0px;}
+/*	`文章列表 文章项 文章简介部分 文章信息
+		1、文章信息部分边距
+		2、文章交互信息
+		2、文章评论
+		4、文章人气
+		5、文章时间	*/
+.article_list .article_item .article_intro .article_info { padding: 10px;}
+.article_list .article_item .article_intro .info {
+	display: inline-block;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.article_list .article_item .article_intro .article_info .article_comment { color: #009ad6;}
+.article_list .article_item .article_intro .article_info .article_pause { color: #F30;}
+.article_list .article_item .article_intro .article_info .article_time {
+	float: right;
+	color: #afb6c5;
+	margin: 2px 0px;
+}

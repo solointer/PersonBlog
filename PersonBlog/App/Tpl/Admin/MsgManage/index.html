@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Css/public.css">
+</head>
+<body>
+	<table width="700px" border="1" cellspacing="0" cellpadding="10" align="center">
+		<tr>
+			<th>ID</th>
+			<th>留言者</th>
+			<th>留言内容</th>
+			<th>留言时间</th>
+			<th>操作</th>
+
+		</tr>
+		 <foreach name='wish' item='v'>
+		 <tr>
+		 	<td>{$v.attrid}</td>
+		 	<td>{$v.username}</td>
+		 	<td>{$v.content}</td>
+		 	<td>{$v.time|date='y-m-d H:i',###}</td>
+		 	<td>
+		 		<a href="{:U('Admin/MsgManage/delete',array('id'=>$v['attrid']))}">删除</a>
+		 		<a href="">回复</a>
+		 	</td>
+		 </tr>
+			</foreach>
+	<tr>
+		<td colspan="5" align="center">{$page}</td>
+	</tr>
+	</table>
+</body>
+</html>

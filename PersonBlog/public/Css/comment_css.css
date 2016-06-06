@@ -1,0 +1,185 @@
+﻿@charset "utf-8";
+/* CSS Document */
+a { color: #333; text-decoration: none; }
+a:hover { text-decoration: underline; }
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+.clearfix:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden
+}
+.clearfix { *height:1%;}
+
+/* 整个评论板块 */
+#comment {
+	margin: 0 auto;
+	text-align: left;
+	width: 850px;
+}
+/* 评论功能栏 */
+#comment_menu { padding: 5px 0;}
+#comment_menu span { margin: 0 5px;}
+#comment_order { float: right;}
+/* 每条评论（其中还包含回复） */
+.comment_item {
+	border-top: 1px solid #F60;
+	position: relative;
+	width: 850px;
+	padding: 20px 0;
+}
+/* 当鼠标在评论区域时，关闭按钮显示 */
+.comment_item:hover .close { display: block; }
+/* 关闭按钮 */
+.close {
+	display: none;
+	position: absolute;
+	top:0px;
+	right: 0px;
+	width: 30px;
+	height: 30px; 
+	border: 2px solid #F30;
+	background: #FFF;
+	color: #F30;
+	line-height: 30px;
+	text-align: center;
+}
+.close:hover {
+	background: #F30;
+	color: #FFF;
+	text-decoration: none;
+}
+/* 评论者头像 */
+.head {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin-right: 10px;
+}
+/* 评论部分 */
+.comment_content { float: left; width: 780px;}
+/* 评论部分-评论内容 */
+.content_main { margin-bottom: 10px;}
+/* 评论部分-评论内容-评论文本 */
+.main_text { margin: 0 0 10px 0; padding-right: 25px;}
+.user { color: #369; }
+.main_image {
+	margin-right: 5px;
+	width: 200px;
+	border: 1px solid #eee;
+}
+/* 评论部分-评论内容-评论文本 */
+.content_info {
+	height: 20px;
+	line-height: 19px;
+	font-size: 12px;
+	margin: 0 0 10px 0;
+}
+/* 评论部分-评论内容-评论文本-评论时间 */
+.content_info .info_time {
+	color: #ccc;
+	float: left;
+	height: 20px;
+	padding-left: 20px;
+	background: url("images/bg1.jpg") no-repeat left top;
+}
+/* 评论部分-评论内容-评论文本-点赞按钮 */
+.content_info .info_praise_button {
+	color: #369;
+	float: right;
+	height: 20px;
+	padding-left: 20px;
+	background: url("images/bg2.jpg") no-repeat left top;
+}
+.content_info .info_praise_button:hover {
+	text-decoration: underline;
+	background: url("images/bg3.jpg") no-repeat left top;
+}
+.reply_item {
+	padding: 10px 0;
+	border-top: 0px solid #F60;
+	width: 100%;
+}
+.reply_item:hover { background: rgb(247, 247, 247);}
+.reply_item .reply_head {
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+.reply_item .reply_content {
+	float: left;
+	width: 740px;
+}
+.reply_item .reply_content .reply_text {
+	margin: 0 0 10px 0;
+}
+.reply_item .reply_content .reply_info {
+	color: #ccc;
+	height: 20px;
+}
+.reply_item .reply_content .reply_time { float: left;}
+.reply_item .reply_content .reply_praise_button {
+	float: right;
+	display: none;
+	color: #369;
+	height: 20px;
+	background: url("images/praise.png") no-repeat;
+}
+.reply_item .reply_content .reply_operate {
+	float: right;
+	display: none;
+	color: #369;
+	height: 20px;
+	margin-right: 20px;
+}
+.reply_item .reply_content:hover .reply_praise_button { display: inline-block;}
+.reply_item .reply_content:hover .reply_operate { display: inline-block;}
+
+.reply_area {
+}
+.reply_area .reply_comment, .comment_textarea {
+	border: 1px solid #eee;
+	display: block;
+	height: 30px;
+	width: 100%;
+	padding: 5px;
+	resize: none; 
+	color: #ccc
+}
+.reply_area .reply_button, .comment_button {
+	font-size: 12px;
+	font-weight: bold;
+	display: none;
+	float: right;
+	width: 65px;
+	height: 25px;
+	border: 1px solid #F60;
+	color: #F60;
+	background: #fff;
+	margin: 5px 0 0 0;
+}
+.reply_area .reply_button, .comment_button:hover { color: #fff; background: #F60; }
+.reply_area .reply_button_off, .comment_button_off {
+	border: 1px solid #ccc;
+	color: #ccc;
+	background: #F7F7F7;
+}
+.reply_area .reply_words{
+	display: none;
+	float: right;
+	margin: 10px 10px 0 0;
+	color: #666;
+}
+/* 当回复评论框获得焦点时 */
+.reply_area_on .reply_comment, .comment_area_on .comment_textarea{ height: 70px; color: #333;}
+.reply_area_on .reply_button, .comment_area_on .comment_button{ display: inline;}
+.reply_area_on .reply_words{ display: inline;}
+
+.comment_area {
+}
